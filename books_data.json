@@ -1,0 +1,122 @@
+{
+  "Fiction": [
+    "The Great Gatsby",
+    "Beloved",
+    "The Catcher in the Rye",
+    "Norwegian Wood",
+    "The Road",
+    "Middlemarch",
+    "The Kite Runner",
+    "White Teeth"
+  ],
+  "Science Fiction": [
+    "Dune",
+    "Neuromancer",
+    "Foundation",
+    "Ender's Game",
+    "The Left Hand of Darkness",
+    "Snow Crash",
+    "The Martian",
+    "Hyperion"
+  ],
+  "Fantasy": [
+    "The Hobbit",
+    "Harry Potter and the Sorcerer's Stone",
+    "The Name of the Wind",
+    "A Game of Thrones",
+    "The Lies of Locke Lamora",
+    "The Way of Kings",
+    "The Priory of the Orange Tree",
+    "The Once and Future King"
+  ],
+  "Mystery": [
+    "Gone Girl",
+    "The Girl with the Dragon Tattoo",
+    "The Hound of the Baskervilles",
+    "In the Woods",
+    "The Big Sleep",
+    "And Then There Were None",
+    "The Secret History",
+    "The No. 1 Ladies' Detective Agency"
+  ],
+  "Thriller": [
+    "The Silence of the Lambs",
+    "The Da Vinci Code",
+    "Shutter Island",
+    "The Bourne Identity",
+    "Before I Go to Sleep",
+    "The Girl on the Train",
+    "Dark Places",
+    "I Am Pilgrim"
+  ],
+  "Romance": [
+    "Pride and Prejudice",
+    "Jane Eyre",
+    "Outlander",
+    "Me Before You",
+    "The Notebook",
+    "Twilight",
+    "The Time Traveler's Wife",
+    "The Rosie Project"
+  ],
+  "Non-Fiction": [
+    "Sapiens",
+    "Educated",
+    "The Immortal Life of Henrietta Lacks",
+    "The Wright Brothers",
+    "Bad Blood",
+    "Thinking, Fast and Slow",
+    "Quiet",
+    "The Sixth Extinction"
+  ],
+  "Historical": [
+    "Wolf Hall",
+    "The Pillars of the Earth",
+    "All the Light We Cannot See",
+    "The Book Thief",
+    "Atonement",
+    "The Other Boleyn Girl",
+    "Memoirs of a Geisha",
+    "The Night Watch"
+  ],
+  "Young Adult": [
+    "The Hunger Games",
+    "The Fault in Our Stars",
+    "Looking for Alaska",
+    "Eleanor & Park",
+    "Divergent",
+    "Speak",
+    "The Hate U Give",
+    "Percy Jackson & the Olympians: The Lightning Thief"
+  ],
+  "Children": [
+    "Charlotte's Web",
+    "Where the Wild Things Are",
+    "The Very Hungry Caterpillar",
+    "Goodnight Moon",
+    "Matilda",
+    "The Cat in the Hat",
+    "Winnie-the-Pooh",
+    "The Polar Express"
+  ],
+  "Poetry": [
+    "The Waste Land",
+    "Leaves of Grass",
+    "Ariel",
+    "The Collected Poems of W.B. Yeats",
+    "Selected Poems of Rumi",
+    "Milk and Honey",
+    "The Sun and Her Flowers",
+    "The Complete Poems of Emily Dickinson"
+  ],
+  "Biography": [
+    "The Diary of a Young Girl",
+    "Long Walk to Freedom",
+    "Steve Jobs",
+    "Becoming",
+    "The Autobiography of Malcolm X",
+    "When Breath Becomes Air",
+    "I Know Why the Caged Bird Sings",
+    "Churchill: A Life"
+  ]
+}
